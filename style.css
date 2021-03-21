@@ -45,22 +45,22 @@ footer{
 .btn-sub{
 }
 
-.banner-about-buffer{
+.banner-our-work-buffer{
     height: 3rem;
 }
 
-.about-image{
+.our-work-image{
     /* height: 24rem; */
     width: 40rem;
     padding: 0%;
     border: none;
 }
 
-.about-contacts-buffer{
+.our-work-about-us-buffer{
     height: 5rem;
 }
 
-.contact-photo{
+.about-us-image{
     height: 28rem;
     padding: 0%;
     border: none;
