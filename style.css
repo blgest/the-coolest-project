@@ -1,0 +1,69 @@
+html,
+body {
+    height: 100%;
+    width: 100%;
+    background-color: #464646;
+    color: #fff;
+    overflow-x: hidden;
+}
+
+hr{
+    color: #F0703A;
+    border-width: 5px;
+    opacity: 1;
+    /* with helf of image color picker */
+}
+
+footer{
+  height: 3rem;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #fff;
+  color: #464646;
+  text-align: center;
+}
+
+.banner{
+    background: url(images/wolfgang-hasselmann.jpg) no-repeat center center;
+    background-size: cover;
+}
+
+.title{
+    height: 58rem;
+}
+
+.box{
+    background-color: #0d6efd;
+    height: 4rem;
+}
+
+.banner-buffer{
+    height: 4rem;
+}
+
+.btn-sub{
+}
+
+.banner-our-work-buffer{
+    height: 3rem;
+}
+
+.our-work-image{
+    /* height: 24rem; */
+    width: 40rem;
+    padding: 0%;
+    border: none;
+}
+
+.our-work-about-us-buffer{
+    height: 5rem;
+}
+
+.about-us-image{
+    height: 28rem;
+    padding: 0%;
+    border: none;
+}
+
+
